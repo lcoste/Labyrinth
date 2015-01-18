@@ -58,8 +58,6 @@ namespace Labyrinth
         private bool started = false;
         private bool path_known = false;
 
-        private Process myProcess;
-
         private void height_box_KeyPress(object sender, KeyPressEventArgs e)
         {
             //Only accepting numbers for the text box
