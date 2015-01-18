@@ -6,7 +6,7 @@ No interaction with the user is except for the input of the size of the labyrint
 
 Then it generates an image (.png) that will be the labyrinth.
 
-Every main algorithms in this program where created by myself without the inspiration or help of already exixting algorithm.
+Every main algorithm in this program where created by myself without the inspiration or help of already exixting algorithm.
 
 No special library is required to run this program.
 
